@@ -1,4 +1,0 @@
-Round Operation System
-
-about
-Round Operation System (ROS) 1.0.0
